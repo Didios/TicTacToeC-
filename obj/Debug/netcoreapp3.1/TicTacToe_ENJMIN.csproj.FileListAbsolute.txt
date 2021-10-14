@@ -1,0 +1,13 @@
+C:\Users\mathi\source\repos\TicTacToe_ENJMIN\bin\Debug\netcoreapp3.1\TicTacToe_ENJMIN.exe
+C:\Users\mathi\source\repos\TicTacToe_ENJMIN\bin\Debug\netcoreapp3.1\TicTacToe_ENJMIN.deps.json
+C:\Users\mathi\source\repos\TicTacToe_ENJMIN\bin\Debug\netcoreapp3.1\TicTacToe_ENJMIN.runtimeconfig.json
+C:\Users\mathi\source\repos\TicTacToe_ENJMIN\bin\Debug\netcoreapp3.1\TicTacToe_ENJMIN.runtimeconfig.dev.json
+C:\Users\mathi\source\repos\TicTacToe_ENJMIN\bin\Debug\netcoreapp3.1\TicTacToe_ENJMIN.dll
+C:\Users\mathi\source\repos\TicTacToe_ENJMIN\bin\Debug\netcoreapp3.1\TicTacToe_ENJMIN.pdb
+C:\Users\mathi\source\repos\TicTacToe_ENJMIN\obj\Debug\netcoreapp3.1\TicTacToe_ENJMIN.AssemblyInfoInputs.cache
+C:\Users\mathi\source\repos\TicTacToe_ENJMIN\obj\Debug\netcoreapp3.1\TicTacToe_ENJMIN.AssemblyInfo.cs
+C:\Users\mathi\source\repos\TicTacToe_ENJMIN\obj\Debug\netcoreapp3.1\TicTacToe_ENJMIN.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\TicTacToe_ENJMIN\obj\Debug\netcoreapp3.1\TicTacToe_ENJMIN.dll
+C:\Users\mathi\source\repos\TicTacToe_ENJMIN\obj\Debug\netcoreapp3.1\TicTacToe_ENJMIN.pdb
+C:\Users\mathi\source\repos\TicTacToe_ENJMIN\obj\Debug\netcoreapp3.1\TicTacToe_ENJMIN.genruntimeconfig.cache
+C:\Users\mathi\source\repos\TicTacToe_ENJMIN\obj\Debug\netcoreapp3.1\TicTacToe_ENJMIN.csproj.AssemblyReference.cache
